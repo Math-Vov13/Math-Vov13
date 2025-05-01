@@ -1,6 +1,6 @@
 <h2 align="left">Hello viewer👋! I'm Math-Vov13</h2>
 <div align="center">
-  <h3>Welcome to my GitHub Page Profile !</h3></br>
+  <h3>Welcome to my GitHub Profile Page !</h3></br>
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
@@ -88,7 +88,7 @@ I love coding, solving tough problems, and building scalable systems that just w
 
 ###
 
-## 🎯 Current Goal
+## Current Goal 🎯
 
 > Taking on new challenges, learning fast, and collaborating on exciting tech projects! 😄
 
