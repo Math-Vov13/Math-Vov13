@@ -1,6 +1,6 @@
-<h2 align="left">Hello fellow viewers 👋! I'm Math-Vov13,</h2>
+<h2 align="left">Hello viewer👋! I'm Math-Vov13</h2>
 <div align="center">
-  <h3>Welcome to my GitHub Profile !</h3></br>
+  <h3>Welcome to my GitHub Page Profile !</h3></br>
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
@@ -9,34 +9,50 @@
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
+<div align="center">
+  <img src="https://img.shields.io/github/followers/Math-Vov13?style=social" alt="GitHub followers"  />
+  <img src="https://img.shields.io/github/stars/Math-Vov13?style=social" alt="GitHub User's stars"  /></br>
+  <img src="https://komarev.com/ghpvc/?username=Math-Vov13&color=blue" alt="Profile view"  />
+</div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Math-Vov13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Math-Vov13&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Math-Vov13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 ## About Me 🍿
-I'm a Front-end Developer with over 2 years of experience, skilled in building dynamic
-and responsive applications. I’ve worked across diverse projects using technologies like
-React.js, Next.js, and TypeScript, contributing to innovative startups, large-scale enterprise
-solutions, and award-winning agencies.
-Experienced in both remote and in-office environments, I’m driven to take ownership of
-my work and consistently deliver high-quality results, often ahead of schedule.
-Comfortable with web, mobile, and API development, I’m always eager to learn and adapt to new challenges.
-- Love Coding
-- Born to solve complexe problems
-- Wants to make biggest project ever
+
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/159580780?s=96&v=4"  />
+
+I’m a **fullstack developer** with 3+ years of experience and a strong focus on **backend development**.
+I love coding, solving tough problems, and building scalable systems that just work.
+- 💘 Passionate about clean, efficient code
+- 🧠 Problem-solving mindset since day one
+- ✅ Always ready for new challenges
+- 🌍 Aiming to build something big and impactful
+
+</br>
+
+### 📡 Interests
+
+- AI trends & algorithms
+- System & project architecture (inspired by Uber, Waze, Amazon, etc.)
+- Constant learning and exploration
+
+### 📌 Notable Projects
+
+- 🎥 [StreamShare](https://github.com/Math-Vov13/StreamShare-ScProject) – Streaming-based content sharing platform
+- 🗺️ [VigilanceFrance](https://github.com/Math-Vov13/VigilanceFrance) – Real-time Collaborative incident tracking Map
 
 </br>
 
 ---
 
 ## Language and tools 💻
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/159580780?s=96&v=4"  />
 
 ###
 
@@ -71,6 +87,10 @@ Comfortable with web, mobile, and API development, I’m always eager to learn a
 </div>
 
 ###
+
+## 🎯 Current Goal
+
+> Taking on new challenges, learning fast, and collaborating on exciting tech projects! 😄
 
 <br clear="both">
 
